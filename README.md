@@ -1,6 +1,6 @@
 # DDOSerer Lite  
-The **Lite version** is back!  
-# What's Different?  
+The **Lite version** is here!
+- Designed to be lightweight and compatible with all devices and platforms.# What's Different?  
 - No Debug Mode for quicker loading  
 - HostId for faster submissions  
 - Improved Captcha  

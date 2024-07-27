@@ -3,7 +3,7 @@
 - [Disclaimer](#disclaimer)
 - [Support](#support)
 
-![MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-orange.svg?style=for-the-badge)  
+![GPL-3.0](https://img.shields.io/badge/License-GPL_3.0-blue.svg?style=for-the-badge) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-orange.svg?style=for-the-badge)  
 ![Static Badge](https://img.shields.io/badge/Made_in-Javascript-yellow?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/For-userscript-black?style=for-the-badge)  
 ![Performance](https://img.shields.io/badge/Performance-Optimized-brightgreen?style=for-the-badge) ![Compatibility](https://img.shields.io/badge/Compatibility-Cross%20Platform-blue?style=for-the-badge)  
 ![GitHub contributors](https://img.shields.io/github/contributors/Nekoobs/DDOSerer-Lite?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues/Nekoobs/DDOSerer-Lite?style=for-the-badge)  
